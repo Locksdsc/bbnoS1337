@@ -8,7 +8,7 @@
 
 - ❌ Most Used **Js | CSS | PHP | Html | Python**
 
-- ❌ Fun fact **baby no money**
+- ❌ yo
 
 <h3 align="left">Yo :</h3>
 <p align="left">
