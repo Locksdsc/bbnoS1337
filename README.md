@@ -2,13 +2,15 @@
 
 <h3 align="center">bbno$</h3>
 
-- ❌ I’m currently working on **Wumpus™**
+- ❌ b
 
-- ❌ I’m currently learning **Vue.js**
+- ❌ b
 
-- ❌ Most Used **Js | CSS | PHP | Html | Python**
+- ❌ n
 
-- ❌ yo
+- ❌ o
+
+- ❌ $
 
 <h3 align="left">Yo :</h3>
 <p align="left">
